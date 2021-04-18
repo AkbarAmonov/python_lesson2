@@ -1,2 +1,3 @@
 # python_lesson2
-th
+th ushbu repazitoriy python darslari uchun
+
